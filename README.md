@@ -1,2 +1,2 @@
 # Coding-sathi-
-Coding sathi internship Tasak-3
+Coding sathi internship Task-3
